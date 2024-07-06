@@ -7,3 +7,7 @@ externals/
 .vagrant
 api/docs/api-docs.html
 *.code-workspace
+.venv/
+bin/
+lib/
+pyvenv.cfg
